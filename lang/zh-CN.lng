@@ -34,21 +34,21 @@ Message.DownloadingReqFiles=正在下载所需文件...
 Label.StorageDrive=Storage drive
 Label.DeviceType=设备类型
 FilePathTextPlaceholder=Click on the "{0}" button or drag and drop the file here.
-ServerPackageInfoLabel=This is the recommended option. It can be used offline too, as long as the package has been previously downloaded.
+ServerPackageInfoLabel=这是推荐的选项。 只要先前已下载软件包，它也可以脱机使用。
 
 [MessageBox]
-Button.OK=OK
-Button.Cancel=Cancel
-Button.Abort=Abort
-Button.Retry=Retry
-Button.Ignore=Ignore
-Button.Yes=Yes
-Button.No=No
+Button.OK=好
+Button.Cancel=取消
+Button.Abort=停
+Button.Retry=再试一次
+Button.Ignore=忽视
+Button.Yes=是
+Button.No=否
 CheckBox.DoNotShowAgain=Don't show this again
 
 [MessageBox.Common]
 Heading.SomethingWentWrong=Something went wrong...
-Heading.Warning=Warning!
+Heading.Warning=警告!
 
 [MainWindow]
 SendFeedbackBtn=发送反馈信息
@@ -149,7 +149,7 @@ LZXCompression.NO=否
 [SetupProgressPage]
 PageTitle=安装
 InstallInfoBox=此过程可能需要很长时间，具体取决于你的SD卡性能。
-TryAgainBtn=Try again
+TryAgainBtn=再试一次
 InstallStatusLabel.GettingReady=准备就绪
 InstallStatusLabel.FormattingDisk=正在格式化您的设备...
 InstallStatusLabel.CreatingPartitions=正在分区...
