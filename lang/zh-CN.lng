@@ -34,16 +34,16 @@ Message.DownloadingReqFiles=正在下载所需文件...
 Label.StorageDrive=Storage drive
 Label.DeviceType=设备类型
 FilePathTextPlaceholder=Click on the "{0}" button or drag and drop the file here.
-ServerPackageInfoLabel=This is the recommended option. It can be used offline too, as long as the package has been previously downloaded.
+ServerPackageInfoLabel=这是推荐的选项。 只要先前已下载软件包，它也可以脱机使用。
 
 [MessageBox]
-Button.OK=OK
+Button.OK=好
 Button.Cancel=Cancel
-Button.Abort=Abort
+Button.Abort=停
 Button.Retry=Retry
 Button.Ignore=Ignore
-Button.Yes=Yes
-Button.No=No
+Button.Yes=是
+Button.No=否
 CheckBox.DoNotShowAgain=Don't show this again
 
 [MessageBox.Common]
